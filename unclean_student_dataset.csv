@@ -1,0 +1,501 @@
+student_name,date_of_birth,state,mobile_number,email,gpa
+"""John Bhoj""",07251996,AX,+11127978094,chris.davis@outlook.com,3.18
+"""Aarav Davis""",'09-25-2005 00:00:00',FL,199-467-6635,michaelsmith@school.edu,
+"""Neha Johnson""",07-22-1997 00:00:00,HI,+12566942273,emily_patel@outlook.com,3.85
+Chris Johnson,'09142003',California,8110054933,ananya_patel@yahoo.com,
+Neha Davis,"""06/17/1997""",CALIFORNIA,15567816720,khushismith@school.edu,
+Michael Patel,10-27-2004 00:00:00,,7867414708,,
+'Emily Bhoj','05122001',WA,13361388464,chris.sharma@yahoo.com,2.68
+"""Chris Johnson""",'12092002',California,3315992115,ananya.davis@gmail.com,
+"""Michael Sharma""",'04302002',MI,12926780541,johnsharma@gmail.com,2.1
+'John Johnson','061200',fl,6520103410,raj.johnson@gmail.com,2.11
+Ananya Wilson,"""08211995""",AL,791-982-4853,nehagupta@school.edu,2.41
+'Sophia Johnson',06-20-1996 00:00:00,AL,109-569-2638,sophia.kumar@outlook.com,3.41
+Chris Bhoj,"""06132005""",NY,+16464693977,raj_wilson@school.edu,3.81
+'Michael Kumar',"""09/28/1998""",NJ,3373077218,,2.62
+Sophia Johnson,121998,TX,+19080621072,john.davis@outlook.com,
+Sophia Kumar,07021997,Texas,11118543408,,
+"""Michael Gupta""",'02/01/2005',FLORIDA,12852408227,johnkumar@school.edu,2.65
+'Raj Wilson',091999,DC,6679017210,emily_wilson@yahoo.com,2.57
+'Neha Brown',"""09/04/2005""",NH,+15607762160,,3.38
+'Michael Johnson','092805',TX,17228002201,chrissharma@yahoo.com,
+Emily Kumar,'11/27/1995',FL,7625464411,,2.78
+"""Khushi Gupta""",12-11-1998 00:00:00,Florida,6467215542,,
+Aarav Sharma,12272000,ca,+12982979741,sophia_davis@outlook.com,2.5
+Chris Bhoj,04162002,ca,5070585433,sophiapatel@gmail.com,
+'John Gupta',070198,AL,14361393222,,
+Sophia Sharma,03-25-2003 00:00:00,nc,8518238399,ananya.brown@outlook.com,
+"""Raj Gupta""",'02/11/1995',Florida,600-668-4937,michael_johnson@school.edu,
+Chris Brown,'06-09-1998 00:00:00',NH,11822662216,chris_gupta@gmail.com,
+'Aarav Kumar','12/27/2000',CALIFORNIA,6516195409,aarav_bhoj@outlook.com,
+"""John Gupta""",'09-03-1996 00:00:00',TX,17196439534,khushigupta@gmail.com,3.9
+'Raj Smith','12121996',Florida,8331319481,,2.53
+Neha Johnson,04/06/2002,AL,7614170462,,
+'Neha Kumar',07261997,Texas,7808938880,ananya_brown@school.edu,2.64
+"""Sophia Davis""",080705,NC,7625389037,,
+'Ananya Bhoj',02/27/2001,WA,+14048494026,john.sharma@yahoo.com,3.43
+Raj Davis,092597,,17475684019,nehagupta@outlook.com,
+Sophia Brown,02-09-2000 00:00:00,TX,685-492-4826,,3.93
+Ananya Smith,02/07/2003,New York,8953271391,ananya.wilson@gmail.com,
+"""Emily Smith""",02082002,ca,1625217504,aarav.patel@gmail.com,2.77
+"""Emily Sharma""",03-03-2000 00:00:00,NC,17818568548,michael.sharma@yahoo.com,
+Raj Bhoj,01291998,CALIFORNIA,5464285982,,
+'Sophia Davis',06-25-1996 00:00:00,NEW YORK,+19033293776,michael_wilson@gmail.com,2.03
+John Sharma,120997,HI,9861449701,raj.davis@yahoo.com,
+'John Smith',01/10/2001,Florida,8875651818,rajbhoj@school.edu,2.43
+Sophia Smith,'02-10-2005 00:00:00',Texas,+19983668939,emilysmith@yahoo.com,3.17
+Sophia Patel,02/09/1998,SC,212-776-1422,khushipatel@outlook.com,
+"""Ananya Brown""","""08/25/2000""",DC,569-758-1510,sophia.gupta@gmail.com,3.25
+Chris Brown,042298,NY,7072283057,john_brown@school.edu,3.33
+'Ananya Smith',12161995,MN,18517413631,sophiasmith@yahoo.com,2.31
+Sophia Wilson,06/09/2001,ca,18569491238,,
+John Patel,01/11/1996,NEW YORK,13653594796,michaelsharma@outlook.com,2.43
+"""John Brown""",081102,OH,504-713-1897,michael.patel@outlook.com,2.46
+Sophia Smith,"""11221999""",CO,2394868732,sophia_smith@gmail.com,3.18
+John Davis,"""06-26-1997 00:00:00""",NY,+16795522649,aarav.gupta@gmail.com,
+Ananya Gupta,05-13-2005 00:00:00,New York,6628158856,,2.57
+John Gupta,07052001,NH,15113386226,johnwilson@yahoo.com,
+Chris Wilson,04-17-2005 00:00:00,CALIFORNIA,19995834531,neha_patel@gmail.com,
+'Raj Davis',12132002,MI,932-230-9624,aarav_johnson@outlook.com,2.38
+"""John Kumar""",08242003,ny,+11696846464,nehakumar@outlook.com,
+Emily Brown,121099,,12073755632,john.wilson@school.edu,
+"""Chris Patel""",03/18/2005,ca,16307626407,sophiasmith@school.edu,
+Ananya Patel,"""11252001""",IL,955-253-9991,,
+John Smith,01042001,New York,12789144223,,3.01
+Chris Bhoj,"""021602""",ca,465-907-2106,sophiapatel@outlook.com,3.96
+Aarav Smith,'06-01-1995 00:00:00',NH,+17508522951,khushi_brown@gmail.com,
+"""Ananya Davis""",100502,Texas,14531928910,,
+'Neha Davis',12-24-1999 00:00:00,VA,1133747952,,
+"""Sophia Davis""",092096,AL,687-240-9674,ananya_wilson@gmail.com,
+'Emily Gupta','041105',ny,15283209430,chris_wilson@school.edu,3.42
+"""Aarav Brown""",'04/03/1997',WA,+14797809576,john_sharma@school.edu,3.66
+"""Neha Patel""",08212000,DC,15633668009,johnwilson@yahoo.com,3.18
+Neha Gupta,'06181995',tx,+15425044246,michael_kumar@gmail.com,
+'Ananya Sharma',10/20/2001,VA,5821194895,john_bhoj@outlook.com,3.73
+"""Sophia Gupta""",101496,DC,+19354711271,khushi_bhoj@outlook.com,3.69
+Ananya Kumar,11/01/1999,fl,2239534867,chriskumar@gmail.com,
+Sophia Wilson,"""032697""",ny,2368076065,raj_gupta@outlook.com,3.42
+Sophia Brown,07-18-2001 00:00:00,ca,+13480920839,neha.davis@yahoo.com,2.06
+Emily Bhoj,08/19/1999,nc,7703957637,sophia_patel@school.edu,3.35
+Raj Gupta,'02-16-1998 00:00:00',DC,17355707297,,
+'Sophia Patel',03241998,tx,+17608141858,chrisjohnson@yahoo.com,2.83
+"""Ananya Smith""",10/25/2005,nc,4957687327,aarav_bhoj@outlook.com,
+'Khushi Bhoj',10042001,NC,+15031086659,raj.patel@school.edu,3.58
+Aarav Gupta,"""041004""",HI,16415031531,rajgupta@gmail.com,2.52
+"""Khushi Smith""",09-11-2002 00:00:00,TEXAS,7896596272,ananyawilson@yahoo.com,3.36
+John Wilson,'11161995',,307-686-9792,ananya_bhoj@yahoo.com,3.03
+Chris Sharma,'033195',CA,863-323-2196,ananya_bhoj@outlook.com,2.27
+Michael Brown,100104,ny,769-980-6697,ananya_wilson@outlook.com,
+'Aarav Kumar','10242004',Florida,3550970716,khushijohnson@gmail.com,2.8
+"""Khushi Patel""",02-24-2004 00:00:00,CO,+13238756255,michael_wilson@gmail.com,3.88
+Michael Wilson,09-03-1996 00:00:00,nc,4928783441,chris.wilson@outlook.com,2.41
+"""John Sharma""",'02/15/2003',FL,13400244542,khushi.johnson@gmail.com,3.49
+"""Neha Johnson""",08-10-1998 00:00:00,VA,18901585274,khushi.gupta@yahoo.com,3.11
+'Neha Davis','03-14-1997 00:00:00',TX,+18823677798,,2.37
+'Khushi Wilson',06302004,CA,522-240-4791,nehasharma@outlook.com,
+"""Khushi Bhoj""",'12-17-2005 00:00:00',FLORIDA,13252218154,raj.davis@school.edu,3.92
+Emily Kumar,'05012002',FL,1736086849,sophia.gupta@gmail.com,3.8
+'Neha Sharma',"""05132005""",California,+18820716211,michael_wilson@outlook.com,2.28
+John Wilson,'020596',AL,+12401777036,michael.davis@outlook.com,2.17
+'John Smith',04/06/1999,HI,193-105-6050,ananyawilson@outlook.com,2.18
+John Gupta,'04271999',FL,6588316233,,
+Ananya Smith,"""013103""",HI,17958672456,neha_patel@school.edu,
+Sophia Patel,040898,CO,18418324922,johndavis@outlook.com,
+"""Aarav Davis""",091501,Florida,3631431563,sophia.davis@gmail.com,2.44
+Chris Wilson,12-31-1999 00:00:00,,+13073486033,sophia.sharma@outlook.com,2.2
+'Ananya Brown','07031995',MI,13216176949,ananya_johnson@yahoo.com,
+Khushi Gupta,'102699',IL,+13479690385,rajsharma@school.edu,3.22
+John Brown,12-07-1996 00:00:00,ny,3978287288,aarav_gupta@outlook.com,3.27
+'Aarav Wilson','03/29/1998',NJ,8099880573,michael_sharma@yahoo.com,2.17
+'Raj Bhoj','01-11-2001 00:00:00',NC,3346569443,,
+'Khushi Sharma',09012004,TX,+12838963536,nehabrown@school.edu,2.34
+Raj Kumar,'10082000',Florida,8011113122,john_smith@school.edu,
+Ananya Brown,07012004,VA,4542693668,rajbrown@yahoo.com,
+'Khushi Bhoj','101603',NEW YORK,14905874257,,2.16
+Aarav Bhoj,"""11/04/2002""",HI,101-318-8812,johndavis@yahoo.com,2.96
+John Smith,071596,ny,13419317349,aaravdavis@outlook.com,3.72
+Aarav Smith,"""102005""",Texas,+17904559790,raj.bhoj@outlook.com,2.48
+Neha Smith,'01-19-1999 00:00:00',Florida,474-659-3830,,
+Chris Kumar,"""082999""",New York,384-185-6077,michael.johnson@yahoo.com,
+'Neha Gupta','06/21/2002',ny,818-111-3684,khushi_brown@school.edu,2.53
+John Sharma,"""08/08/2000""",HI,2050340486,aarav.patel@outlook.com,2.5
+Sophia Kumar,'05041996',California,9960957575,,
+Neha Johnson,07/13/2000,TX,2438888667,raj.smith@yahoo.com,2.84
+'Raj Smith',080697,AX,3438771483,aarav_johnson@school.edu,
+"""Sophia Brown""",'07/31/2005',HI,4308571144,raj.smith@yahoo.com,2.61
+'Neha Bhoj','08-09-2004 00:00:00',TX,1746756255,chris.wilson@gmail.com,2.92
+'John Bhoj','10/04/2003',fl,11276905285,,2.1
+Michael Davis,10/14/1999,Texas,386-556-3435,,2.84
+Chris Johnson,11302003,VA,+16676247763,,
+Chris Brown,'12/03/2005',TX,+15070780669,sophia.gupta@school.edu,3.13
+"""Emily Sharma""",'06051995',OH,15855415646,,2.3
+John Wilson,031199,CO,+19420979586,aarav_davis@school.edu,3.46
+Neha Davis,'05132001',CO,928-726-4619,sophia.sharma@school.edu,
+"""Raj Smith""",113099,WA,1968870456,,
+'Raj Smith','112796',AL,660-195-6536,emilydavis@school.edu,3.32
+Khushi Davis,09211996,TEXAS,943-777-8869,michael_sharma@school.edu,2.18
+Sophia Davis,"""121497""",Texas,+13866755218,michael_wilson@outlook.com,
+John Davis,'08/18/2000',NJ,2818381356,aarav_gupta@school.edu,3.82
+John Davis,08-09-2004 00:00:00,CA,905-817-9561,neha_smith@school.edu,2.53
+"""Ananya Gupta""",'020298',fl,19801637712,raj_kumar@outlook.com,3.72
+Aarav Kumar,'04-05-2004 00:00:00',Florida,18833889083,chris.patel@school.edu,2.81
+'Neha Bhoj',"""10/24/2004""",NC,151-469-4262,emily_brown@outlook.com,3.74
+Chris Brown,'11251997',FL,13780475472,chrisbhoj@gmail.com,2.95
+'Neha Bhoj',10-27-2001 00:00:00,Texas,533-485-6713,,
+"""Chris Gupta""",'031896',Texas,4864126433,aaravbhoj@outlook.com,
+Michael Davis,06/01/2001,nc,12261792922,chrispatel@school.edu,3.31
+Raj Davis,"""12-03-1997 00:00:00""",CALIFORNIA,+18218541928,,2.82
+Ananya Patel,09262003,SC,4283432667,johnpatel@outlook.com,
+'Michael Bhoj',03-27-1997 00:00:00,NH,1553753599,raj.patel@gmail.com,2.58
+Chris Gupta,09/14/2002,VA,868-292-3701,aarav_smith@gmail.com,3.28
+"""Neha Bhoj""",'03181996',NY,5334930042,chriskumar@yahoo.com,3.8
+'Neha Smith',10202003,tx,+17054856909,ananya.brown@gmail.com,2.03
+'Neha Sharma',"""01041996""",tx,12994056084,john.smith@gmail.com,3.7
+Sophia Brown,01031998,NY,510-509-8479,,3.45
+John Davis,'051901',FL,9107154202,,2.63
+"""Chris Gupta""",09-19-2005 00:00:00,HI,543-777-5072,aarav_wilson@outlook.com,
+"""Sophia Johnson""",09/07/2000,TX,180-570-8277,khushi_smith@outlook.com,2.07
+Neha Gupta,04/22/2001,MI,18921283088,johnsmith@yahoo.com,2.71
+Raj Wilson,07/07/1995,Florida,12687477596,,3.85
+Neha Smith,"""05/21/2002""",CALIFORNIA,14501446994,michaeldavis@yahoo.com,
+'Ananya Patel',10-03-2001 00:00:00,CO,13887823121,sophia_wilson@outlook.com,3.79
+Raj Davis,'041495',CALIFORNIA,18230106415,chris_bhoj@outlook.com,3.74
+Chris Johnson,"""08-31-1997 00:00:00""",FL,6126033644,john.patel@gmail.com,2.86
+'Raj Patel','06-27-2004 00:00:00',NC,3169561289,michael_smith@yahoo.com,
+'Sophia Kumar',061003,CA,13667740351,john_davis@school.edu,
+"""Chris Wilson""","""01/27/2005""",HI,271-891-9814,michaelsmith@yahoo.com,2.05
+'John Smith',11-28-2003 00:00:00,OH,364-517-7357,nehabhoj@gmail.com,
+'Raj Gupta',080103,ca,18502250932,sophiabhoj@yahoo.com,2.01
+"""Michael Wilson""",'05-10-1997 00:00:00',,4660390742,johnkumar@gmail.com,2.39
+Ananya Brown,'08181997',AL,298-425-8960,emily_davis@school.edu,
+Ananya Sharma,'03092001',AX,961-387-3293,khushigupta@outlook.com,3.54
+Chris Kumar,"""04/17/2000""",TEXAS,+13192202822,nehapatel@yahoo.com,2.36
+"""Aarav Sharma""",'071603',tx,6961814514,khushi.brown@school.edu,2.53
+Neha Patel,08042001,OH,+16776869849,emilysmith@school.edu,
+Neha Smith,09141998,IL,704-265-7732,aarav.bhoj@school.edu,
+Neha Gupta,"""03-01-2003 00:00:00""",nc,8239558924,john_johnson@outlook.com,2.03
+Chris Davis,122796,,18083396378,chris.davis@outlook.com,2.76
+"""Neha Smith""","""08/03/2003""",Florida,15325865521,john_patel@school.edu,3.07
+'Sophia Gupta',081902,nc,+18325043570,aarav.smith@outlook.com,3.6
+Khushi Patel,01082004,FLORIDA,9752092528,michaelgupta@school.edu,3.42
+'Ananya Sharma','07-15-2004 00:00:00',,628-815-4795,john_kumar@school.edu,3.34
+"""Chris Bhoj""",01-05-1996 00:00:00,VA,455-935-5530,chris_kumar@gmail.com,3.91
+Neha Kumar,042501,NC,12107327477,sophiawilson@gmail.com,
+John Davis,11/08/1995,Texas,+11857561275,emily_gupta@yahoo.com,3.56
+'Ananya Gupta',08112004,CO,604-688-5501,michaelsharma@gmail.com,2.79
+Aarav Sharma,"""02-28-2000 00:00:00""",IL,+16692705133,neha_brown@yahoo.com,2.42
+"""Sophia Brown""",01/06/1997,HI,+17680134655,khushi_patel@outlook.com,3.79
+Chris Wilson,05-13-1998 00:00:00,fl,3705237613,raj_brown@school.edu,
+Neha Johnson,"""01/14/2001""",CO,+15631725051,sophiadavis@outlook.com,3.7
+Sophia Johnson,12-19-2002 00:00:00,NJ,+17228942343,raj.smith@yahoo.com,
+'Chris Bhoj','06151999',New York,+12328736852,aarav.bhoj@school.edu,
+Ananya Wilson,07/07/1996,FLORIDA,4456193555,michael.kumar@school.edu,2.02
+"""Sophia Kumar""",050405,CA,+13564111605,chris_davis@yahoo.com,
+'Michael Johnson',09/26/1999,Texas,+18768773991,,
+Raj Gupta,"""09151996""",HI,+18366710477,,
+"""Sophia Sharma""",'11/25/1995',fl,4069538076,ananyajohnson@gmail.com,2.4
+Chris Johnson,'07-02-1998 00:00:00',California,862-662-9534,michael.brown@yahoo.com,
+Emily Bhoj,"""093002""",AX,354-261-9190,aarav.wilson@yahoo.com,2.63
+"""Sophia Sharma""","""03-28-1999 00:00:00""",California,13104929112,ananyakumar@yahoo.com,
+"""Raj Wilson""",022602,MN,+19861985372,sophiadavis@school.edu,2.22
+'Khushi Patel','05/09/1995',NH,201-132-7366,,3.84
+Ananya Bhoj,122604,CALIFORNIA,943-731-5355,chris.smith@yahoo.com,2.38
+"""Emily Gupta""",052703,VA,+14791700311,emilydavis@school.edu,
+Khushi Bhoj,10/21/2000,DC,+11664494972,neha.johnson@school.edu,
+Neha Johnson,'112203',HI,12638728074,michael.davis@yahoo.com,3.5
+"""Michael Bhoj""",01/20/2001,New York,7150116885,,2.95
+"""Khushi Wilson""","""081700""",ny,5602675870,neha.smith@outlook.com,
+Sophia Gupta,11-24-1996 00:00:00,NJ,738-249-8216,emily.gupta@school.edu,2.03
+Raj Sharma,'04/20/2003',tx,661-594-3315,neha.kumar@outlook.com,
+"""Raj Brown""",'092204',FL,620-826-2631,,
+'Michael Patel',09-03-2002 00:00:00,,+17982725037,michael.patel@outlook.com,3.36
+'Emily Davis',091796,MI,+14436425084,neha_patel@gmail.com,3.11
+"""Aarav Brown""",05-01-1995 00:00:00,Florida,+11807168703,emily_bhoj@gmail.com,2.95
+Neha Sharma,"""072204""",NH,331-133-7694,ananya_gupta@school.edu,
+Michael Bhoj,01-28-2003 00:00:00,California,9758519013,khushi_johnson@outlook.com,
+Ananya Patel,08/12/1995,AX,839-612-2854,neha_johnson@gmail.com,3.38
+'Aarav Smith',"""120202""",FL,+15981731142,aarav_bhoj@school.edu,
+'Raj Patel','06/22/1996',tx,+18968929797,ananya_sharma@outlook.com,2.16
+Chris Kumar,'04/03/2004',New York,156-768-6718,,2.36
+Raj Gupta,06/02/2001,MN,4523010269,john_kumar@yahoo.com,
+Chris Davis,'11112001',AX,4981887252,ananya.sharma@yahoo.com,3.42
+John Bhoj,04/09/2003,Florida,146-441-6728,chris_wilson@gmail.com,
+Neha Gupta,03-05-1997 00:00:00,nc,13068007538,michaelbhoj@school.edu,3.36
+'Chris Bhoj',09-08-2002 00:00:00,VA,167-252-5595,john.sharma@school.edu,2.9
+'Chris Kumar',03131999,NJ,+11661759010,ananyadavis@gmail.com,3.86
+Neha Smith,'02-27-1996 00:00:00',DC,7581074488,raj.patel@school.edu,3.92
+'Chris Smith','12-05-1998 00:00:00',TEXAS,1558663601,khushi_smith@gmail.com,2.78
+Neha Gupta,01-01-2000 00:00:00,AX,18295428906,ananya.sharma@yahoo.com,
+'Sophia Davis',04-15-2005 00:00:00,NC,16804394126,aarav.wilson@outlook.com,
+Chris Smith,'063099',TX,7833164976,sophiawilson@yahoo.com,3.34
+'Neha Sharma',"""090701""",NJ,280-415-7648,aaravgupta@gmail.com,
+Chris Kumar,03/12/1997,DC,+15253259971,khushibrown@gmail.com,
+"""John Kumar""",111602,fl,11597296237,aaravkumar@yahoo.com,2.27
+Aarav Sharma,'07101996',Florida,+13676831869,nehabhoj@outlook.com,2.47
+Raj Davis,05181995,NY,1379874179,johnwilson@school.edu,3.81
+Khushi Sharma,06-08-2001 00:00:00,TEXAS,396-271-1578,raj.gupta@school.edu,2.97
+'Raj Kumar',"""02-24-1998 00:00:00""",NY,+18126019200,khushi.brown@yahoo.com,
+'Michael Davis','12/08/1999',VA,16014805529,chris_johnson@outlook.com,
+Khushi Kumar,08-11-2002 00:00:00,California,5717062885,emily.gupta@school.edu,
+Chris Bhoj,'021895',HI,801-556-6759,,3.19
+"""Neha Smith""",08/08/2004,SC,15020871331,sophia.kumar@gmail.com,
+'Sophia Bhoj','02-12-2004 00:00:00',AL,3763116394,john.bhoj@gmail.com,
+'Khushi Sharma',03072002,Texas,7402419515,john.wilson@gmail.com,
+John Gupta,09-27-1998 00:00:00,AX,6115319619,sophia.sharma@outlook.com,3.47
+'Khushi Gupta',05121999,WA,4096722936,,
+"""Chris Patel""",10231995,ca,11061698094,johnsharma@yahoo.com,3.67
+John Sharma,09/16/1995,fl,+15884792606,john.kumar@outlook.com,2.34
+"""Ananya Johnson""","""021496""",WA,+19972793290,raj_wilson@outlook.com,2.35
+'Khushi Gupta',08092000,VA,+11824216542,emily.kumar@yahoo.com,
+'Ananya Patel','05072005',MN,+16374643838,ananya.wilson@gmail.com,3.44
+Neha Brown,'01-27-2005 00:00:00',NY,5610775014,,2.43
+"""Ananya Patel""",01/27/2003,NH,8952782076,sophia_johnson@yahoo.com,3.28
+Aarav Gupta,122195,IL,18430369688,emily.gupta@gmail.com,
+Chris Bhoj,"""01302004""",CA,809-849-7662,,
+'Neha Gupta',020700,fl,289-908-7068,rajgupta@yahoo.com,
+Khushi Wilson,'12162004',MN,19877722802,johnsharma@yahoo.com,
+Sophia Kumar,08121995,,639-949-3010,,3.8
+'John Patel',10/26/2002,ca,400-526-9870,john.bhoj@school.edu,2.69
+Sophia Sharma,061004,DC,14631453750,aarav.gupta@school.edu,2.35
+'Aarav Patel',06-18-1995 00:00:00,MN,5930382855,aarav_wilson@gmail.com,
+"""Aarav Sharma""","""11-17-2005 00:00:00""",TEXAS,872-687-3409,emily_sharma@gmail.com,2.65
+'Neha Wilson','06-29-2005 00:00:00',AX,651-969-8298,sophia.davis@outlook.com,
+Sophia Brown,'04162001',NJ,+12239673672,chris.brown@outlook.com,
+Michael Patel,'06/21/2003',FL,396-667-9037,aarav_kumar@outlook.com,
+Michael Patel,'09291997',Texas,9024484626,johnbrown@gmail.com,3.69
+Aarav Brown,'01/03/1999',MN,529-751-6832,aarav_wilson@school.edu,
+'Raj Brown',"""07-03-2001 00:00:00""",TEXAS,+17064470209,chrisgupta@gmail.com,2.83
+Aarav Bhoj,01/25/1999,MI,+19713455851,raj.patel@yahoo.com,3.96
+John Bhoj,'06/24/1995',,707-160-8685,nehajohnson@yahoo.com,2.37
+Aarav Kumar,"""10/19/1996""",CA,4969546654,neha_patel@gmail.com,
+Michael Johnson,'07-16-2003 00:00:00',NY,18321763524,michael_kumar@school.edu,3.37
+'Chris Davis','080404',AL,3886628103,john.smith@outlook.com,2.8
+"""Aarav Smith""",'033197',FLORIDA,6824393594,chris.kumar@outlook.com,
+'Emily Patel',04112003,ca,8591664389,ananyasharma@school.edu,3.62
+"""Chris Bhoj""",10291999,FL,+11141131770,michael.sharma@outlook.com,3.37
+"""Ananya Sharma""",'081795',FL,+16516617218,sophia.gupta@school.edu,
+'Michael Brown','09/27/1997',DC,15786617777,,2.84
+'Michael Kumar',04072000,FL,13899580938,raj_brown@yahoo.com,2.99
+'Chris Johnson',07-14-1995 00:00:00,OH,2174093450,sophiasmith@school.edu,2.6
+'Chris Brown',07-06-1999 00:00:00,SC,7301985407,khushi.wilson@school.edu,2.48
+Raj Davis,03212005,Texas,+13582272957,,
+Chris Davis,'04/07/1997',ca,11085507405,michaelbrown@gmail.com,2.79
+Emily Smith,"""05-09-1996 00:00:00""",NY,11619668903,raj.gupta@outlook.com,3.07
+Sophia Wilson,10-20-2005 00:00:00,MN,586-832-7025,emilykumar@outlook.com,
+John Wilson,05111999,tx,18062770940,ananyasharma@outlook.com,
+John Patel,121298,CO,+14272659618,sophia.gupta@gmail.com,3.03
+Aarav Gupta,080198,tx,+18728916782,michael.gupta@gmail.com,3.85
+Neha Johnson,"""03-23-1997 00:00:00""",fl,732-539-5262,michaelsharma@outlook.com,2.24
+Raj Kumar,11/02/1999,TEXAS,2124420145,sophiagupta@outlook.com,
+Michael Johnson,'04-04-2003 00:00:00',CALIFORNIA,6931082155,aarav.wilson@yahoo.com,
+'Ananya Patel','121902',NY,7515348075,sophia.sharma@outlook.com,2.11
+"""Aarav Bhoj""",'032800',WA,17261030270,,3.74
+Chris Kumar,05191997,Florida,178-352-9161,neha_smith@yahoo.com,2.92
+"""Ananya Sharma""","""05192002""",NJ,9893692242,,
+"""John Bhoj""",'092803',New York,19253637840,sophia.wilson@outlook.com,
+Neha Gupta,02-04-2004 00:00:00,FLORIDA,2878427679,aarav.kumar@outlook.com,2.59
+'Khushi Wilson','100799',tx,4376604904,,
+Neha Sharma,01-22-2004 00:00:00,SC,316-289-2281,khushipatel@outlook.com,2.81
+Neha Sharma,12-01-2001 00:00:00,fl,+11537255294,emilysharma@yahoo.com,2.87
+'Chris Johnson','081903',FLORIDA,17378227601,michael_bhoj@gmail.com,
+Michael Sharma,'03-20-2001 00:00:00',fl,597-625-8993,michael.sharma@outlook.com,
+'Michael Bhoj',02/22/2003,,324-701-6556,aarav.patel@yahoo.com,
+'Ananya Kumar',03302001,tx,465-793-3598,john.wilson@outlook.com,
+'Khushi Wilson',09111996,NJ,+15186131787,emily.brown@school.edu,
+John Patel,07181996,Florida,887-887-1107,michaelbrown@yahoo.com,
+Emily Patel,080499,MN,6747970335,aarav.davis@outlook.com,3.32
+'Aarav Gupta',01-31-2002 00:00:00,DC,8302711705,chrisgupta@outlook.com,3.78
+"""Michael Johnson""",01-10-2001 00:00:00,ny,13730248478,rajdavis@gmail.com,
+'Chris Brown',06262003,CA,3888081200,emily_smith@yahoo.com,3.65
+"""Aarav Davis""",091295,NJ,7804532904,ananya.davis@yahoo.com,
+"""Aarav Wilson""",052097,MN,221-716-7694,sophia_kumar@outlook.com,2.29
+Michael Bhoj,'03/07/1998',WA,14738453527,sophia_davis@yahoo.com,
+'Ananya Sharma','03-01-2003 00:00:00',Florida,496-338-7478,chris_johnson@gmail.com,2.24
+"""Khushi Kumar""",'113002',CO,511-703-1737,sophia_davis@gmail.com,2.23
+'Raj Patel','08132003',Florida,5546230531,,
+'Michael Smith',09/08/1997,FL,217-375-1993,emily_bhoj@gmail.com,2.49
+"""Raj Gupta""","""02/17/2002""",NEW YORK,1179495626,nehakumar@yahoo.com,
+'Raj Gupta',081702,IL,699-960-9361,chris_kumar@yahoo.com,
+Sophia Kumar,01/23/1998,IL,570-713-6381,michaelwilson@outlook.com,3.08
+'John Wilson',050104,FL,15225369518,ananya.bhoj@gmail.com,3.36
+'Sophia Johnson',"""11-17-2001 00:00:00""",WA,471-137-5599,neha_wilson@yahoo.com,3.32
+'Neha Gupta',"""08/06/2001""",OH,635-846-5494,sophia_davis@school.edu,
+Sophia Wilson,'07081997',Florida,4167298652,emily.johnson@school.edu,2.62
+"""Khushi Sharma""","""12-10-2003 00:00:00""",nc,344-448-1891,john.patel@outlook.com,
+John Smith,042298,Florida,15729952677,john.smith@gmail.com,3.68
+'Aarav Wilson',092199,TX,+11259807661,neha_brown@school.edu,3.04
+'Aarav Bhoj',"""03092004""",NH,18163404757,nehabrown@school.edu,
+'Khushi Sharma',01/16/1995,IL,344-592-6431,,
+Ananya Johnson,"""01141999""",TEXAS,278-324-5292,raj.smith@yahoo.com,2.76
+"""Sophia Johnson""",01-29-2004 00:00:00,FLORIDA,11814502461,michael.johnson@yahoo.com,3.71
+'Sophia Johnson',12-03-2003 00:00:00,WA,6902427921,sophiawilson@outlook.com,
+Neha Davis,'04152002',NH,+12700377445,sophiakumar@gmail.com,
+'Chris Brown',061895,NJ,1106163845,john.brown@school.edu,3.03
+"""John Kumar""",'10-20-1995 00:00:00',NH,18926139828,sophia_davis@gmail.com,2.94
+'Michael Johnson',05/27/2003,NC,2793955743,chris_bhoj@yahoo.com,2.26
+Khushi Sharma,10/23/1998,fl,13520952914,nehagupta@outlook.com,
+John Wilson,090898,NEW YORK,11801836494,raj.wilson@outlook.com,2.11
+Sophia Davis,"""061296""",IL,+16625364235,,
+Neha Johnson,111004,AX,+18698070838,michael_sharma@yahoo.com,2.19
+"""Khushi Johnson""","""11-23-2004 00:00:00""",IL,16695183060,khushi.sharma@gmail.com,
+Michael Brown,'06131999',NY,+17288886727,ananya_patel@school.edu,3.68
+'Neha Smith','052396',CA,+17187578950,khushiwilson@gmail.com,2.78
+'Neha Bhoj',03/26/1999,TX,+12811113558,johnpatel@yahoo.com,
+Sophia Wilson,"""062405""",IL,2671543978,raj_gupta@gmail.com,
+"""Neha Sharma""",'01/05/2001',HI,12426129087,,2.9
+Emily Wilson,08101997,DC,13661875683,emily_patel@yahoo.com,2.48
+Neha Sharma,02-13-1998 00:00:00,Florida,+14223591617,emilyjohnson@outlook.com,2.37
+"""Khushi Smith""","""02271997""",IL,15630681326,emily_johnson@yahoo.com,2.61
+'Ananya Johnson','100603',MN,8567428724,rajgupta@yahoo.com,
+Ananya Kumar,'101801',ny,7405744932,sophia_davis@school.edu,
+Khushi Smith,030697,VA,12059962775,khushi_patel@outlook.com,3.89
+Neha Gupta,02201995,FL,18858714543,rajjohnson@outlook.com,3.4
+'Ananya Bhoj',090503,FLORIDA,+11576951818,khushi.patel@school.edu,
+"""Neha Smith""","""04151998""",MI,130-699-4846,khushi.smith@gmail.com,
+Ananya Sharma,10-10-1998 00:00:00,CO,+18151456771,,3.06
+Emily Brown,100204,CA,7900994599,john_brown@outlook.com,3.97
+Michael Kumar,'10022004',AX,5101913760,emily.johnson@yahoo.com,3.51
+"""John Davis""",06-02-2005 00:00:00,OH,13858199245,neha.gupta@school.edu,3.43
+Michael Wilson,'08/13/1997',TEXAS,17755292104,,
+Sophia Brown,'06/01/1996',CA,+12356892801,aaravbhoj@school.edu,2.62
+Raj Gupta,07-20-2000 00:00:00,MI,8974804213,aaravbhoj@outlook.com,
+'Michael Davis','02-24-2003 00:00:00',NH,15857181464,aarav.gupta@outlook.com,3.39
+"""Emily Johnson""",04212002,HI,794-904-3418,,
+'Aarav Davis',05/01/1996,SC,768-863-7150,,3.34
+Emily Bhoj,"""05-18-2000 00:00:00""",SC,3308592457,khushidavis@outlook.com,3.67
+John Johnson,'01/10/1997',NJ,919-421-3015,khushi.smith@school.edu,
+Khushi Johnson,10-28-2000 00:00:00,WA,811-420-9563,emily_patel@yahoo.com,3.91
+'Neha Brown','030603',tx,366-490-3675,rajjohnson@school.edu,3.3
+"""Neha Patel""",110103,TX,12747112232,aarav_johnson@gmail.com,2.2
+"""Michael Smith""",11-26-2000 00:00:00,HI,+17663823156,michael_patel@outlook.com,2.95
+"""Chris Patel""",'05-13-2001 00:00:00',MN,+12966178433,john_kumar@school.edu,3.69
+'Emily Smith',08241995,WA,3997380182,,2.38
+"""Michael Wilson""",04152003,OH,5090885943,aarav.brown@school.edu,2.5
+'John Kumar','04-17-1998 00:00:00',fl,12527909147,john_bhoj@yahoo.com,
+'Ananya Johnson',10/07/2000,CA,6580386377,chris.kumar@outlook.com,3.31
+'Sophia Davis','11/28/2004',TEXAS,13861327917,,2.99
+Aarav Brown,'062699',HI,13147487660,neha_bhoj@outlook.com,
+'Emily Gupta','09/25/2000',NY,984-369-5052,,2.08
+"""Michael Bhoj""",072895,OH,17484815168,,3.89
+"""Michael Johnson""",'06171995',CO,12850733732,johnbhoj@yahoo.com,
+"""Neha Wilson""","""02/04/1998""",HI,14510745572,ananyajohnson@yahoo.com,2.38
+Raj Wilson,"""01112000""",Florida,8793362077,chris.smith@outlook.com,
+'Michael Gupta','01231997',IL,706-813-1145,khushi.wilson@school.edu,
+"""Aarav Kumar""","""12/28/2005""",NY,12393982645,khushi_bhoj@yahoo.com,
+Khushi Wilson,07132005,tx,2154459322,emily_davis@yahoo.com,3.8
+"""Ananya Patel""","""052201""",TEXAS,+14802132892,,
+'John Wilson',06012003,ca,212-946-1222,sophia.smith@yahoo.com,
+"""Aarav Kumar""","""08-17-1995 00:00:00""",California,6268529625,,2.45
+Michael Smith,"""07081997""",AL,11648982313,raj.brown@school.edu,
+John Bhoj,09/21/2003,nc,+17776783557,michael_brown@outlook.com,
+'Neha Brown',08/02/2005,WA,+12651961479,emily_bhoj@outlook.com,3.92
+Sophia Brown,'03/08/2004',New York,+12041518442,,2.29
+Khushi Davis,06072002,NEW YORK,9643525901,,3.49
+Chris Kumar,'12241999',New York,16271277159,chris.davis@yahoo.com,
+"""Aarav Wilson""",100702,fl,12159295684,sophia.bhoj@school.edu,2.33
+Neha Bhoj,"""03/09/2001""",Texas,11196196740,,
+Chris Johnson,"""12/28/1998""",Florida,8714058899,khushi.kumar@yahoo.com,2.16
+John Johnson,"""05/03/2002""",,14373060563,michaelbhoj@outlook.com,3.99
+John Patel,'02031996',DC,660-988-2428,sophia.brown@gmail.com,
+Ananya Kumar,05/13/2005,WA,15848950368,,2.9
+"""Khushi Gupta""",11/13/2003,New York,+12614141871,ananya_smith@outlook.com,
+'John Smith',"""031996""",MI,166-424-6610,ananyapatel@yahoo.com,2.06
+Michael Bhoj,'102899',IL,988-123-7929,johnkumar@outlook.com,3.05
+"""Raj Patel""",021005,NEW YORK,7170940238,chris.gupta@gmail.com,3.45
+'Sophia Brown',012005,CO,4681934042,neha.smith@yahoo.com,2.38
+"""Chris Patel""",05/09/1997,CA,4726992894,ananya_davis@school.edu,3.08
+Sophia Smith,"""03/09/1999""",FLORIDA,490-391-8167,michael_smith@gmail.com,3.27
+'Raj Davis',"""091803""",nc,6430982163,khushi.davis@gmail.com,3.58
+Neha Brown,10/28/1999,fl,+18027741130,johnpatel@gmail.com,3.57
+'Raj Wilson','08/13/1998',ca,+19709413415,sophia.patel@yahoo.com,2.59
+"""Michael Kumar""",06/26/2005,HI,213-570-3010,,3.69
+"""Michael Smith""","""102995""",Florida,16067230051,ananyagupta@gmail.com,2.32
+'Emily Gupta','04/05/1995',MN,11943866804,emily_smith@school.edu,
+"""Chris Davis""","""03-21-1997 00:00:00""",DC,19086810658,neha_davis@yahoo.com,2.75
+'John Sharma',"""05-19-1995 00:00:00""",VA,507-130-2878,sophia.brown@school.edu,2.24
+Sophia Johnson,01/29/2005,IL,8070676290,sophia.johnson@gmail.com,
+'Michael Smith',"""12-01-1996 00:00:00""",ca,391-118-1076,khushi_smith@gmail.com,
+Raj Brown,"""03-29-2001 00:00:00""",DC,813-565-9082,michael.johnson@gmail.com,
+Chris Bhoj,'11291997',DC,4972236629,,2.3
+Michael Sharma,091297,CO,+11969934690,john.sharma@yahoo.com,
+'Emily Sharma',05-04-1997 00:00:00,NC,771-257-9265,aaravkumar@gmail.com,3.75
+'John Johnson','03/02/2000',nc,+16806610347,chrisdavis@school.edu,2.11
+Khushi Davis,04/19/1998,WA,+13925562184,,3.79
+'John Wilson',"""071697""",Texas,607-310-3802,nehasharma@school.edu,3.71
+'Sophia Smith','092298',CA,11330614006,neha_bhoj@yahoo.com,2.95
+Neha Kumar,"""11/16/1996""",MI,16859578069,neha.sharma@school.edu,3.37
+Aarav Davis,"""08-03-1996 00:00:00""",FLORIDA,9441556624,chris_patel@school.edu,
+'Raj Kumar',"""07-01-2001 00:00:00""",NC,3944314782,chriskumar@yahoo.com,
+'Khushi Sharma','03051998',DC,12079898502,,3.47
+'Raj Johnson','06-18-2005 00:00:00',FL,+19130517572,sophia.gupta@yahoo.com,2.5
+'Raj Kumar',051001,FLORIDA,7131792407,ananyabhoj@gmail.com,3.91
+Neha Kumar,03/09/1999,TEXAS,154-873-7433,,2.54
+'Sophia Gupta',040598,NY,13127317293,khushisharma@yahoo.com,2.0
+'John Wilson',04161997,NJ,+16583130018,emilypatel@yahoo.com,2.58
+John Gupta,"""052299""",Florida,933-535-3427,khushi_gupta@gmail.com,3.82
+'Ananya Sharma',10-10-1996 00:00:00,IL,+11269576948,raj.davis@outlook.com,2.94
+Aarav Gupta,'05-22-2002 00:00:00',CO,+18859301687,,
+Sophia Johnson,'03/20/2003',SC,845-493-7882,john_sharma@gmail.com,2.64
+'Ananya Davis','02/23/2002',WA,548-795-5687,john.johnson@yahoo.com,
+Neha Wilson,'082602',IL,4442828156,michaelsmith@gmail.com,2.25
+'John Sharma','09-29-2001 00:00:00',TEXAS,948-357-7396,emilywilson@school.edu,2.11
+John Gupta,'12131997',Florida,367-305-6481,johndavis@gmail.com,3.78
+'Raj Bhoj',07/27/2000,DC,900-970-4731,khushi_davis@yahoo.com,2.86
+'John Sharma',11-26-2001 00:00:00,CALIFORNIA,343-337-2507,emily.bhoj@gmail.com,2.25
+Sophia Brown,04/12/1998,NY,16241094005,rajjohnson@school.edu,2.64
+Khushi Brown,'122201',IL,+16285111559,ananya.smith@outlook.com,2.54
+"""Michael Kumar""",021798,FL,19814388068,neha_brown@yahoo.com,2.68
+Michael Davis,06092003,TEXAS,979-647-8594,raj.smith@school.edu,2.79
+'Raj Brown','10231997',CO,956-370-3929,ananya.wilson@outlook.com,
+"""Neha Wilson""","""01-06-1997 00:00:00""",WA,11165363881,,2.12
+'Raj Kumar',"""06-22-2004 00:00:00""",TX,11332646182,michaelsmith@outlook.com,
+Neha Brown,04-24-2002 00:00:00,ca,5037010859,khushi_patel@gmail.com,3.91
+Neha Wilson,"""032603""",CALIFORNIA,+17529793398,sophia_johnson@school.edu,3.5
+Ananya Davis,09022000,OH,19200233904,sophia.brown@gmail.com,2.82
+Neha Sharma,"""02/02/2005""",NY,528-369-8698,,
+Sophia Patel,'12-26-2002 00:00:00',MI,705-723-2765,sophia_sharma@school.edu,3.02
+'Raj Smith','07-13-2000 00:00:00',,11615024545,neha.brown@school.edu,
+'Ananya Sharma',"""11-24-1996 00:00:00""",HI,337-782-5565,chris.wilson@gmail.com,
+Emily Kumar,031803,TEXAS,12129819217,john.brown@yahoo.com,2.65
+Sophia Kumar,07152002,California,+12363768949,aarav.sharma@outlook.com,2.57
+'Chris Johnson',"""100395""",SC,16792638620,raj_sharma@outlook.com,
+'John Johnson',11-17-2004 00:00:00,TX,19402311231,aarav_sharma@outlook.com,
+Chris Johnson,'09-07-1995 00:00:00',CO,521-500-8240,michaeljohnson@yahoo.com,3.07
+Neha Gupta,"""03231995""",MI,+13812909739,aarav_brown@outlook.com,2.43
+Khushi Bhoj,"""081600""",TEXAS,4220862110,aarav.kumar@gmail.com,3.44
+'Michael Bhoj','04/23/2004',fl,6592708750,raj_gupta@outlook.com,
+Chris Kumar,12/24/2000,fl,+14069092303,ananya.gupta@school.edu,2.66
+'John Wilson',"""091204""",fl,17414180352,khushibrown@outlook.com,3.74
+Chris Sharma,04/24/2002,,668-979-2334,ananya.smith@outlook.com,3.25
+Ananya Patel,'06241999',FLORIDA,+17539002241,sophiawilson@school.edu,
+Aarav Patel,"""02-10-1995 00:00:00""",AL,1406795995,johnbrown@yahoo.com,2.69
+Raj Kumar,07-21-2001 00:00:00,tx,11654646678,neha.smith@outlook.com,3.54
+Neha Kumar,'112701',CA,16002856890,,
+Michael Sharma,04/25/1996,FL,+17536878838,raj_patel@outlook.com,3.58
+John Wilson,12301996,VA,+16115237403,chris.johnson@school.edu,
+"""Chris Bhoj""",013198,tx,8010417786,chris.smith@school.edu,2.06
+'Aarav Patel','05092004',CALIFORNIA,+14661785483,nehabrown@gmail.com,2.81
+'Khushi Smith',"""07/16/2003""",NJ,15041950526,,2.93
+'Neha Sharma','04182005',AX,290-425-1329,emilykumar@yahoo.com,
+"""Khushi Davis""",07-29-1996 00:00:00,Texas,6856674089,aaravbhoj@outlook.com,3.14
+Michael Brown,03/28/1998,Texas,+12109020054,sophiabrown@outlook.com,
+"""John Brown""",092399,HI,4230009441,ananyagupta@outlook.com,3.46
+Raj Brown,'07-02-1999 00:00:00',OH,+17103088340,neha.wilson@yahoo.com,2.26
+"""John Kumar""",111898,New York,4684060593,,
+'Khushi Sharma',021496,IL,+18865575432,aarav_davis@school.edu,
+Neha Davis,'07062002',SC,+16850949950,,
+"""John Brown""",09-09-1996 00:00:00,nc,15752083046,john.davis@yahoo.com,
+Ananya Bhoj,070499,tx,9507189942,john.patel@school.edu,
+Emily Wilson,'020700',TEXAS,16881083339,khushi_wilson@yahoo.com,
+Sophia Kumar,01031999,SC,3651030484,,2.08
+John Davis,"""10-15-1998 00:00:00""",tx,+14431481733,khushi_gupta@yahoo.com,
+Emily Bhoj,01-30-1998 00:00:00,CO,12394184320,nehasharma@outlook.com,
+'Ananya Wilson',10-27-1998 00:00:00,NC,974-860-9175,nehasmith@outlook.com,3.12
+Chris Brown,'012400',NEW YORK,5250644256,aaravdavis@gmail.com,2.19
+'Neha Kumar',101396,IL,7287462513,aarav_davis@gmail.com,
+Aarav Smith,120405,OH,18439518982,aaravgupta@outlook.com,3.37
+Neha Davis,07/14/2004,TX,+12386089888,ananyajohnson@outlook.com,
+Chris Smith,'10/12/2004',AL,107-866-1529,nehawilson@gmail.com,2.88
+Raj Davis,06-13-1995 00:00:00,NJ,+11445057469,sophia.patel@outlook.com,2.19
+John Sharma,09-29-1997 00:00:00,MI,+17735501682,khushi_johnson@school.edu,2.61
+Aarav Gupta,'12-07-1999 00:00:00',ny,11978900486,,2.73
