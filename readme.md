@@ -17,8 +17,6 @@ The goal is to transform raw, unstructured data into a **clean, analytics-ready 
   - `email` → valid emails with some NULLs
   - `gpa` → numeric as string or NULL
 
-> Note: Enrollment date was removed to focus on cleaning core student information.
-
 ---
 
 ## Cleaning Steps (SQL)
@@ -76,3 +74,4 @@ The goal is to transform raw, unstructured data into a **clean, analytics-ready 
 - Use of **CASE WHEN, REGEXP_REPLACE, STR_TO_DATE**
 - Safe bulk updates and primary-key-based joins
 - Balancing **data integrity vs analytics readiness**
+
